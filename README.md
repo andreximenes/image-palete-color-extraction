@@ -18,6 +18,6 @@ Using a terminal, into a project root path, follow the step sequence below:
 `jupyter-lab`
 
 5. A new browser tab will be opened with the algorithm ready to use.
-6. 
+
 
 > All Instructions above are from a linux based OS.
